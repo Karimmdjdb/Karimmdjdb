@@ -1,0 +1,30 @@
+name: Update README automatically
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Tous les jours à 6h UTC (8h en France)
+  workflow_dispatch:      # Permet de le lancer manuellement aussi
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+
+    - name: Run Python script and save overwrite README.md
+      run: python generate-readme.py > README.md
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "BatBot"
+        git config --global user.email "batbot-karimmdjdb@users.noreply.github.com"
+        git add README.md
+        git commit -m "Auto-update README" || echo "No changes to commit"
+        git push
