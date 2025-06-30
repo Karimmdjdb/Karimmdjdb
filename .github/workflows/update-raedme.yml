@@ -19,7 +19,7 @@ jobs:
         python-version: '3.x'
 
     - name: Run Python script and save overwrite README.md
-      run: python generate-readme.py > README.md
+      run: python generate.py > README.md
 
     - name: Commit changes
       run: |
