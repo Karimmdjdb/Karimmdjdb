@@ -15,7 +15,7 @@ Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
 - 📫 How to reach me: **contact@medjdoub-karim.fr**
-- 📝 Quote of the day: *I have not failed. I've just found 10,000 ways that won't work. – Thomas Edison*
+- 📝 Quote of the day: *Stay hungry, stay foolish. – Steve Jobs*
 
 ---
 
@@ -25,7 +25,6 @@ Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 ---
 
 ### 🎨 Frontend Technologies
@@ -33,7 +32,6 @@ Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
 ---
 
 ### 🛠️ Backend Technologies
@@ -45,7 +43,6 @@ Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
-
 ---
 
 ### ☁️ Cloud & Deployment
@@ -55,7 +52,6 @@ Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
-
 ---
 
 ### 🖥️ Systems & Tools
