@@ -15,7 +15,7 @@ Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
 - 📫 How to reach me: **contact@medjdoub-karim.fr**
-- 📝 Quote of the day: *Life is like riding a bicycle. To keep your balance, you must keep moving. – Albert Einstein*
+- 📝 Quote of the day: *The only way to do great work is to love what you do. – Steve Jobs*
 
 ---
 
