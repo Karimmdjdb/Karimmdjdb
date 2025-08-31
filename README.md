@@ -10,12 +10,12 @@
 
 Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🎓 Currently studying **Networks & Cloud Computing** at [**Sorbonne University**](https://www.sorbonne-universite.fr/)
-- 📆 Today is: **Saturday 30 August 2025** (189 days until my birthday).
+- 📆 Today is: **Sunday 31 August 2025** (188 days until my birthday).
 - 💡 Working on: **Learning Kubernetes & building a local cloud lab**
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
 - 📫 How to reach me: **contact@medjdoub-karim.fr**
-- 📝 Quote of the day: *When something is important enough, you do it even if the odds are not in your favor. – Elon Musk*
+- 📝 Quote of the day: *Stay hungry, stay foolish. – Steve Jobs*
 
 ---
 
