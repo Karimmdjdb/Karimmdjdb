@@ -10,12 +10,12 @@
 
 Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🎓 Currently studying **Networks & Cloud Computing** at [**Sorbonne University**](https://www.sorbonne-universite.fr/)
-- 📆 Today is: **Tuesday 16 December 2025** (81 days until my birthday).
+- 📆 Today is: **Wednesday 17 December 2025** (80 days until my birthday).
 - 💡 Working on: **Learning Kubernetes & building a local cloud lab**
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
 - 📫 How to reach me: **contact@medjdoub-karim.fr**
-- 📝 Quote of the day: *When something is important enough, you do it even if the odds are not in your favor. – Elon Musk*
+- 📝 Quote of the day: *If you can't explain it simply, you don't understand it well enough. – Albert Einstein*
 
 ---
 
