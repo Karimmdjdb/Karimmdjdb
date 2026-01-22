@@ -10,12 +10,12 @@
 
 Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🎓 Currently studying **Networks & Cloud Computing** at [**Sorbonne University**](https://www.sorbonne-universite.fr/)
-- 📆 Today is: **Wednesday 21 January 2026** (45 days until my birthday).
+- 📆 Today is: **Thursday 22 January 2026** (44 days until my birthday).
 - 💡 Working on: **Learning Kubernetes & building a local cloud lab**
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
 - 📫 How to reach me: **contact@medjdoub-karim.fr**
-- 📝 Quote of the day: *Imagination is more important than knowledge. – Albert Einstein*
+- 📝 Quote of the day: *Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill*
 
 ---
 
