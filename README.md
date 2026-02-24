@@ -10,7 +10,7 @@
 
 Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🎓 Currently studying **Networks & Cloud Computing** at [**Sorbonne University**](https://www.sorbonne-universite.fr/)
-- 📆 Today is: **Monday 23 February 2026** (12 days until my birthday).
+- 📆 Today is: **Tuesday 24 February 2026** (11 days until my birthday).
 - 💡 Working on: **Learning Kubernetes & building a local cloud lab**
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
