@@ -10,12 +10,12 @@
 
 Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🎓 Currently studying **Networks & Cloud Computing** at [**Sorbonne University**](https://www.sorbonne-universite.fr/)
-- 📆 Today is: **Wednesday 25 February 2026** (10 days until my birthday).
+- 📆 Today is: **Thursday 26 February 2026** (9 days until my birthday).
 - 💡 Working on: **Learning Kubernetes & building a local cloud lab**
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
 - 📫 How to reach me: **contact@medjdoub-karim.fr**
-- 📝 Quote of the day: *The people who are crazy enough to think they can change the world are the ones who do. – Rob Siltanen*
+- 📝 Quote of the day: *Try not to become a man of success but rather a man of value. – Albert Einstein*
 
 ---
 
