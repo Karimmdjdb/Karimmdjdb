@@ -10,12 +10,12 @@
 
 Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🎓 Currently studying **Networks & Cloud Computing** at [**Sorbonne University**](https://www.sorbonne-universite.fr/)
-- 📆 Today is: **Friday 27 February 2026** (8 days until my birthday).
+- 📆 Today is: **Saturday 28 February 2026** (7 days until my birthday).
 - 💡 Working on: **Learning Kubernetes & building a local cloud lab**
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
 - 📫 How to reach me: **contact@medjdoub-karim.fr**
-- 📝 Quote of the day: *Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill*
+- 📝 Quote of the day: *Your time is limited, so don’t waste it living someone else’s life. – Steve Jobs*
 
 ---
 
