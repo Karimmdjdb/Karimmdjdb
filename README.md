@@ -10,12 +10,12 @@
 
 Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🎓 Currently studying **Networks & Cloud Computing** at [**Sorbonne University**](https://www.sorbonne-universite.fr/)
-- 📆 Today is: **Tuesday 19 May 2026** (292 days until my birthday).
+- 📆 Today is: **Wednesday 20 May 2026** (291 days until my birthday).
 - 💡 Working on: **Learning Kubernetes & building a local cloud lab**
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
 - 📫 How to reach me: **contact@medjdoub-karim.fr**
-- 📝 Quote of the day: *It always seems impossible until it's done. – Nelson Mandela*
+- 📝 Quote of the day: *Try not to become a man of success but rather a man of value. – Albert Einstein*
 
 ---
 
