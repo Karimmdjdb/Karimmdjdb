@@ -10,12 +10,12 @@
 
 Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🎓 Currently studying **Networks & Cloud Computing** at [**Sorbonne University**](https://www.sorbonne-universite.fr/)
-- 📆 Today is: **Saturday 27 June 2026** (253 days until my birthday).
+- 📆 Today is: **Sunday 28 June 2026** (252 days until my birthday).
 - 💡 Working on: **Learning Kubernetes & building a local cloud lab**
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
 - 📫 How to reach me: **contact@medjdoub-karim.fr**
-- 📝 Quote of the day: *If you can't explain it simply, you don't understand it well enough. – Albert Einstein*
+- 📝 Quote of the day: *Life is like riding a bicycle. To keep your balance, you must keep moving. – Albert Einstein*
 
 ---
 
