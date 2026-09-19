@@ -10,12 +10,12 @@
 
 Hi, I’m Karim – a passionate computer science student from France 🇫🇷
 - 🎓 Currently studying **Networks & Cloud Computing** at [**Sorbonne University**](https://www.sorbonne-universite.fr/)
-- 📆 Today is: **Friday 18 September 2026** (170 days until my birthday).
+- 📆 Today is: **Saturday 19 September 2026** (169 days until my birthday).
 - 💡 Working on: **Learning Kubernetes & building a local cloud lab**
 - 🧠 Interests: Cloud architecture, Linux systems, automation, cybersecurity
 - 🚀 Looking for: **A cloud/DevOps apprenticeship starting September 2025**
 - 📫 How to reach me: **contact@medjdoub-karim.fr**
-- 📝 Quote of the day: *The people who are crazy enough to think they can change the world are the ones who do. – Rob Siltanen*
+- 📝 Quote of the day: *Simplicity is the ultimate sophistication. – Leonardo da Vinci*
 
 ---
 
